@@ -1,0 +1,17 @@
+{
+  "name": "generator-fed-work-cli",
+  "version": "1.0.0",
+  "description": "create fed-work template",
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "author": "wixi",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}
